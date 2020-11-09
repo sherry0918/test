@@ -1,3 +1,4 @@
+// 3.js
 module.exports = {
   productionSourceMap: false,  // 生产环境不生成js对应的map文件
   devServer: {
@@ -21,3 +22,4 @@ module.exports = {
     }
   }
 }
+
